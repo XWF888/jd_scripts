@@ -12,7 +12,7 @@
  * Tasks: 京东物流派件提醒 = type=cron,cronexp=0 12 * * *,script-path=jdWuLiu.js,wake-system=true
  *
  * # QuanX
- * 0 12 * * * jdWuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/id77/QuantumultX/master/icon/jdWuLiu.png
+ * 0 12 * * * jdWuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png
  *
  * # Loon
  * cron "0 12 * * *" script-path=jdWuLiu.js
