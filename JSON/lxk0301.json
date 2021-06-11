@@ -74,5 +74,6 @@
     "10 * * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_factory.js, tag=京喜工厂助力+自动开团参团, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
     "0 1,18 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_factory_component.js, tag=京喜工厂plus, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdgc.png, enabled=true",
     "0 8 1-31 5-12 * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_jbczy.js, tag=金榜创造营修改版, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-    "0 10 * * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_mc_coin.js, tag=京喜牧场刷金币, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",]
+    "0 10 * * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_mc_coin.js, tag=京喜牧场刷金币, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
+    "0 12 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jdWuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png",]
 }
