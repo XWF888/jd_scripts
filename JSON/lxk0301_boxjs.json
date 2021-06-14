@@ -623,8 +623,8 @@
         }
       ],
       "author": "@lxk0301",
-      "repo": "https://gitee.com/lxk0301/jd_scripts/tree/master",
-      "script": "https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jdfactory.js",
+      "repo": "https://raw.githubusercontent.com/XWF888/jd_scripts/main",
+      "script": "https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_jdfactory.js",
       "icons": [
         "https://raw.githubusercontent.com/58xinian/icon/master/jd_factory_mini.png",
         "https://raw.githubusercontent.com/58xinian/icon/master/jd_factory.png"
@@ -663,8 +663,8 @@
         "https://github.com/58xinian/icon/raw/master/jdgc.png"
       ],
       "author": "@lxk0301",
-      "repo": "https://gitee.com/lxk0301/jd_scripts/tree/master",
-      "script": "https://gitee.com/lxk0301/jd_scripts/raw/master/jd_dreamFactory.js"
+      "repo": "https://raw.githubusercontent.com/XWF888/jd_scripts/main",
+      "script": "https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_dreamFactory.js"
     },
     {
       "id": "jd_jxCFD_invites",
@@ -692,8 +692,8 @@
         "https://raw.githubusercontent.com/58xinian/icon/master/jxcfd.png"
       ],
       "author": "@lxk0301",
-      "repo": "https://gitee.com/lxk0301/jd_scripts/tree/master",
-      "script": "https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cfd.js"
+      "repo": "https://raw.githubusercontent.com/XWF888/jd_scripts/main",
+      "script": "https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_cfd.js"
     },
     {
       "id": "jd_cash",
@@ -728,8 +728,8 @@
         "https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png"
       ],
       "author": "@lxk0301",
-      "repo": "https://gitee.com/lxk0301/jd_scripts/tree/master",
-      "script": "https://gitee.com/lxk0301/jd_scripts/raw/master/jd_cash.js"
+      "repo": "https://raw.githubusercontent.com/XWF888/jd_scripts/main",
+      "script": "https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_cash.js"
     },
     {
       "id": "jd_jxd",
@@ -745,11 +745,11 @@
         }
       ],
       "author": "@lxk0301",
-      "repo": "https://gitee.com/lxk0301/jd_scripts/tree/master",
+      "repo": "https://raw.githubusercontent.com/XWF888/jd_scripts/main",
       "scripts":[
         {
           "name" : "京小兑",
-          "script" : "https://gitee.com/lxk0301/jd_scripts/raw/master/jd_jxd.js"
+          "script" : "https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_jxd.js"
         }
       ],
       "icons": [
