@@ -114,8 +114,7 @@
         {
           "id": "jd_fruit_inviter",
           "name": "东东农场好友邀请码 列表",
-          "val": "1fb1ad080e2c43419ee80f77039bf467@77e85442e2474d8fbbe7d4a924bfdc05@be85b8712cc74cd88950fb8622749dbb@b56db1c9672c4d0c9f704ee3361a8f11@ae3f2d56b2db4e14afc508548e4dee8f,
-                  cb4c11c9c5c1474eb2fa3bcba47cd949@77e85442e2474d8fbbe7d4a924bfdc05@be85b8712cc74cd88950fb8622749dbb@b56db1c9672c4d0c9f704ee3361a8f11@ae3f2d56b2db4e14afc508548e4dee8f",
+          "val": "",
           "placeholder": "账号1的好友1邀请码@账号1的好友2邀请码\n\n账号2的好友1邀请码@账号2的好友2邀请码",
           "type": "textarea",
           "autoGrow": true,
