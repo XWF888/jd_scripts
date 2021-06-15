@@ -15,15 +15,15 @@ boxjs：https://raw.githubusercontent.com/Ariszy/Private-Script/master/Ariszy.bo
 hostname = m.jingxi.com
 #圈x
 [rewrite local]
-https://m.jingxi.com/dreamfactory/generator/CollectCurrentElectricity? url script-request-header https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jxcollect.js
+https://m.jingxi.com/dreamfactory/generator/CollectCurrentElectricity? url script-request-header https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_collect.js
 
 
 #loon
-http-request https://m.jingxi.com/dreamfactory/generator/CollectCurrentElectricity? script-path=https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jxcollect.js, requires-body=true, timeout=10, tag=京喜工厂电力收取
+http-request https://m.jingxi.com/dreamfactory/generator/CollectCurrentElectricity? script-path= https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_collect.js, requires-body=true, timeout=10, tag=京喜工厂电力收取
 
 
 #surge
-京喜工厂电力收取 = type=http-request,pattern=https://m.jingxi.com/dreamfactory/generator/CollectCurrentElectricity?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Ariszy/Private-Script/master/Scripts/jxcollect.js,script-update-interval=0
+京喜工厂电力收取 = type=http-request,pattern=https://m.jingxi.com/dreamfactory/generator/CollectCurrentElectricity?,requires-body=1,max-size=0,script-path= https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_collect.js,script-update-interval=0
 */
 const $ = new Env('京喜工厂收取电力')
 const notify = $.isNode() ?require('./sendNotify') : '';
