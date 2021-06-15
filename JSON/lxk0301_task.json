@@ -77,5 +77,5 @@
     "0 10 * * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_mc_coin.js, tag=京喜牧场刷金币, img-url=https://github.com/58xinian/icon/raw/master/jdgc.png, enabled=true",
     "0 12,18 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_WuLiu.js, tag=京东物流派件提醒, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_kd.png, enabled=true",
     "5 0 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/activity/jx_sign.js, tag=京喜签到, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
-  ]
+    "*/30 * * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_collect.js, tag=京喜工厂电力收取, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",]
 }
