@@ -793,6 +793,35 @@
     "repo": "https://github.com/XWF888/jd_scripts",
     "icons": ["https://raw.githubusercontent.com/58xinian/icon/master/jdgc_mini.png","https://github.com/58xinian/icon/raw/master/jdgc.png"],
     "script": "https://raw.githubusercontent.com/XWF888/jd_scripts/main/jx_collect.js"
-  }
+  },
+  {
+      "id": "jd_EsportsManager",
+      "name": "东东电竞经理",
+      "keys": [
+        "jd_EsportsManager_Bearer"
+      ],
+      "descs_html": [
+        "请在输入框输入东东电竞Bearer"
+      ],
+      "settings": [
+        {
+          "id": "jd_EsportsManager_Bearer",
+          "name": "东东电竞Bearer",
+          "val": "",
+          "placeholder": "Bearer XXX",
+          "type": "textarea",
+          "autoGrow": true,
+          "rows": 8,
+          "desc": "使用东东电竞CK脚本会自动填写"
+        }
+      ],
+      "author": "",
+      "repo": "",
+      "script": "",
+      "icons": [
+        "https://raw.githubusercontent.com/JDHelloWorld/jd_scripts_demo/main/jd_EsportsManager.png",
+        "https://raw.githubusercontent.com/JDHelloWorld/jd_scripts_demo/main/jd_EsportsManager.png"
+      ]
+    }
   ]
 }
