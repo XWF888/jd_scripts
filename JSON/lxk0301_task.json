@@ -1,6 +1,6 @@
 {
   "name": "M⃞r⃞.x⃞i⃞a⃞o⃞℡🇨🇳 task",
-  "description": "自用薅羊毛",
+  "description": "自用薅羊毛(lxk0301/jd_scripts备份。不要star。不要fork。谢谢配合)",
   "task": [
     "2 9 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
     "10 7 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
