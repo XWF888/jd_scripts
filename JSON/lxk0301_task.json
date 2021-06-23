@@ -1,5 +1,5 @@
 {
-  "name": "lxk0301 task",
+  "name": "M⃞r⃞.x⃞i⃞a⃞o⃞℡🇨🇳 task",
   "description": "自用薅羊毛",
   "task": [
     "2 9 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
