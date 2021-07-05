@@ -86,5 +86,7 @@
     {"config":"10 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_bean.js, tag=京东到家鲜豆任务, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
     {"config":"10 0 * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_plantBeans.js, tag=京东到家鲜豆庄园, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
     {"config":"*/5 * * * * https://raw.githubusercontent.com/passerby-b/JDDJ/main/jddj_getPoints.js, tag=京东到家鲜豆庄园收水滴, img-url=https://gitee.com/passerby-b/javascript/raw/master/icon/jddj.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
+    {"config":"57 59 9 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_europeancup.js, tag=欧洲狂欢杯, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
+
   ]
 }
