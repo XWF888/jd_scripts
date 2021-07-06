@@ -48,20 +48,20 @@ $.shareuuid = "LRDQ1seT3IIEELw1YUF9kQmBi6RTL0leNHHF5o2t7HI" //wen总的助力码
 
 
       // //开工位
-         if ($.index >= 2) {
-         $.log(`帮 ${$.UserName} 开工位 :`)
-         let resp = await getJoyBaseInfo( undefined, 2, $.invitePinTaskList[$.openIndex]);
-         if (resp.data && resp.data.helpState && resp.data.helpState === 1) {
-           $.log("开工位成功！");
-         }else if (resp.data && resp.data.helpState && resp.data.helpState === 3) {
-           $.log("你不是新用户了，开🐔八开！");
-         }else if (resp.data && resp.data.helpState && resp.data.helpState === 2){
-           $.log(`ck ${$.index} -  ${$.UserName} 开满了不开了`);
-           $.openIndex++
-         }else {
-           $.log("开工位失败！");
-         }
-       }
+      //   if ($.index >= 2) {
+      //   $.log(`帮 ${$.UserName} 开工位 :`)
+      //   let resp = await getJoyBaseInfo( undefined, 2, $.invitePinTaskList[$.openIndex]);
+      //   if (resp.data && resp.data.helpState && resp.data.helpState === 1) {
+      //     $.log("开工位成功！");
+      //   }else if (resp.data && resp.data.helpState && resp.data.helpState === 3) {
+      //     $.log("你不是新用户了，开🐔八开！");
+      //   }else if (resp.data && resp.data.helpState && resp.data.helpState === 2){
+      //     $.log(`ck ${$.index} -  ${$.UserName} 开满了不开了`);
+      //     $.openIndex++
+      //   }else {
+      //     $.log("开工位失败！");
+      //   }
+      // }
 
       await getJoyBaseInfo()
       if ($.joyBaseInfo && $.joyBaseInfo.invitePin) {
