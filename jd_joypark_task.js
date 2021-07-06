@@ -29,7 +29,7 @@ $.invitePinTaskList = ['LRDQ1seT3IIEELw1YUF9kQmBi6RTL0leNHHF5o2t7HI','O_izbVL_Wu
 
 const JD_API_HOST = `https://api.m.jd.com/client.action`;
 message = ""
-$.shareuuid = "LRDQ1seT3IIEELw1YUF9kQmBi6RTL0leNHHF5o2t7HI" //wen总的助力码
+$.shareuuid = "" //wen总的助力码
 !(async () => {
   if (!cookiesArr[0]) {
     $.msg($.name, '【提示】请先获取cookie\n直接使用NobyDa的京东签到获取', 'https://bean.m.jd.com/', {
