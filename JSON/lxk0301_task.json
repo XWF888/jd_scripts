@@ -93,6 +93,7 @@
     {"config":"40 8-23/3 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_joypark_task.js, tag=汪汪乐园每日任务, img-url=https://raw.githubusercontent.com/XWF888/Task/Main/joypark.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
     {"config":"1 8 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_wxFans.js, tag=超级粉丝互动, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
     {"config":"30 7 * * * https://raw.githubusercontent.com/XWF888/jd_scripts/main/jd_ddnc_farmpark.js, tag=东东乐园收水滴, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jdnc.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
+    {"config":"11 1 * * * https://raw.githubusercontent.com/Annyoo2021/scripts/main/jd_try.js, tag=京东试用, img-url=https://raw.githubusercontent.com/NobyDa/mini/master/Color/jd.png", "addons":"https://raw.githubusercontent.com/XWF888/QuantumultX-Crack/main/JD_Cookie(0301).conf"},
     
   ]
 }
